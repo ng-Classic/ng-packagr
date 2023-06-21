@@ -1,5 +1,5 @@
 {
-  "name": "ng-packagr",
+  "name": "@angular-classic/ng-packagr",
   "version": "16.1.0",
   "description": "Compile and package Angular libraries in Angular Package Format (APF)",
   "keywords": [
